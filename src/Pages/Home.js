@@ -3,6 +3,8 @@ import { Main } from '../Components/Main'
 
 export const Home = () => {
   return (
-    <Main />
+    <div className="relative ">
+      <Main />
+    </div>
   )
 }
